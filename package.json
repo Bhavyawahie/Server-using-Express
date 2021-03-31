@@ -8,11 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bhavyawahie/Server-using-Express.git",
-    "directory": "/"
+    "url": "git+https://github.com/Bhavyawahie/Server-using-Express.git"
   },
   "author": "Bhavya Wahie",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhavyawahie/Server-using-Express/issues"
+  },
+  "homepage": "https://github.com/Bhavyawahie/Server-using-Express#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
